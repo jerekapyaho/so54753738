@@ -1,11 +1,3 @@
-//
-//  SceneDelegate.swift
-//  so54753738
-//
-//  Created by Jere Conifer on 11.9.2020.
-//  Copyright © 2020 Conifer Productions Oy. All rights reserved.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
